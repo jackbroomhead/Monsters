@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/jackbroomhead.github.io/Monsters/static/css/main.ca7b68f3.chunk.css",
+    "main.js": "/jackbroomhead.github.io/Monsters/static/js/main.1b523cf8.chunk.js",
+    "main.js.map": "/jackbroomhead.github.io/Monsters/static/js/main.1b523cf8.chunk.js.map",
+    "runtime-main.js": "/jackbroomhead.github.io/Monsters/static/js/runtime-main.6ee73a07.js",
+    "runtime-main.js.map": "/jackbroomhead.github.io/Monsters/static/js/runtime-main.6ee73a07.js.map",
+    "static/js/2.330f610a.chunk.js": "/jackbroomhead.github.io/Monsters/static/js/2.330f610a.chunk.js",
+    "static/js/2.330f610a.chunk.js.map": "/jackbroomhead.github.io/Monsters/static/js/2.330f610a.chunk.js.map",
+    "static/js/3.7d2d14a6.chunk.js": "/jackbroomhead.github.io/Monsters/static/js/3.7d2d14a6.chunk.js",
+    "static/js/3.7d2d14a6.chunk.js.map": "/jackbroomhead.github.io/Monsters/static/js/3.7d2d14a6.chunk.js.map",
+    "index.html": "/jackbroomhead.github.io/Monsters/index.html",
+    "static/css/main.ca7b68f3.chunk.css.map": "/jackbroomhead.github.io/Monsters/static/css/main.ca7b68f3.chunk.css.map",
+    "static/js/2.330f610a.chunk.js.LICENSE.txt": "/jackbroomhead.github.io/Monsters/static/js/2.330f610a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6ee73a07.js",
+    "static/js/2.330f610a.chunk.js",
+    "static/css/main.ca7b68f3.chunk.css",
+    "static/js/main.1b523cf8.chunk.js"
+  ]
+}
